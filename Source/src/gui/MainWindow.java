@@ -36,7 +36,7 @@ public class MainWindow extends JPanel {
     }
 
     private void setTopPanel() {
-        JLabel info = new JLabel("Covid-19 Hospital Availabilty Quest by Kaiwalya Koparkar & Team");
+        JLabel info = new JLabel("KVPM Private Hospital");
         info.setForeground(new Color(230, 220, 250));
         JPanel panel = new JPanel();
         panel.setBackground(new Color(130, 50, 250));
